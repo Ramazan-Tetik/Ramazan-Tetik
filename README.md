@@ -57,8 +57,6 @@ My goal is to turn real-world problems into innovative AI-powered applications.
 
 
 ### 🧰 Technical Skills
-
-<h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
