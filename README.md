@@ -15,7 +15,7 @@ My goal is to turn real-world problems into innovative AI-powered applications.
 ### 💼 Experience
 
 **🧠 Artificial Intelligence Intern | Adnan Menderes University**  
-📅 July 2025 – Present (On-site)  
+📅 July 2025 – Present
 📍 Aydın, Türkiye  
 - Worked with YOLOv and other computer vision algorithms  
 - Gained hands-on experience in data labeling and object detection   
@@ -28,7 +28,7 @@ My goal is to turn real-world problems into innovative AI-powered applications.
 - Worked with large datasets and real-time model deployment scenarios  
 
 **📊 AI Intern | Lotus AI**  
-📅 July 2024 – August 2024 (On-site)  
+📅 July 2024 – August 2024 
 📍 Aydın, Türkiye  
 - Built classification, clustering, regression, and time series models  
 - Processed and visualized data using SQL, KNIME, and Python  
@@ -36,7 +36,7 @@ My goal is to turn real-world problems into innovative AI-powered applications.
 - Shared results via GitHub repositories and presentations  
 
 **🔍 AI Intern | Adnan Menderes University**  
-📅 July 2023 – August 2023 (On-site)  
+📅 July 2023 – August 2023 
 📍 Aydın, Türkiye  
 - Created a model to optimize flour usage and reduce food waste  
 - Detected human presence in indoor areas based on CO₂ levels  
